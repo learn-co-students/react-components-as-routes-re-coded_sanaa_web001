@@ -42,3 +42,6 @@ jspm_packages
 # Learn-specific .results.json
 .results.json
 *yarn.lock
+
+
+node_modules (for REACT).zip
